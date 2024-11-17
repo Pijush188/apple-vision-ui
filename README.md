@@ -1,2 +1,3 @@
 # apple-vision-ui
-Clone Apple Vision Website UI
+Clone Apple Vision Website UI<br>
+This project is an interactive and visually captivating website designed to replicate the look and feel of the original Apple Vision Pro website. Utilizing a combination of HTML, CSS, JavaScript, GSAP, ScrollTrigger, and Canva-JavaScript, the website features sophisticated animations and seamless user interactions. The design emphasizes modern web technologies to deliver a fluid and immersive experience, with dynamic scrolling effects, engaging transitions, and responsive layouts, all aimed at showcasing the product in an innovative, professional manner similar to the Apple Vision Pro's official presentation.
